@@ -2,6 +2,7 @@
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" style="display: inline-block;" /> 
+    <img src="https://img.shields.io/badge/-Go-007396?style=flat-square&logo=Go&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="display: inline-block;" /> 
     <img src="https://komarev.com/ghpvc/?username=Decade-qiu" alt="1879" style="display: inline-block;">
@@ -12,8 +13,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-  - 🤔 &nbsp; Learning web development, focusing on JavaScript and popular front-end frameworks.
-  - 🎓 &nbsp; Currently pursuing a Master's degree in Software Engineering at Soochow University.
+  - 🤔 &nbsp; Skilled in thinking about underlying logic and has conducted research on deep learning.
+  - 🎓 &nbsp; Currently studying at Nanchang University, researching computer science.
   - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Network traffic measurement.
   - ✍️ &nbsp; Enjoys reading novels and writing essays in leisure time.
 
@@ -21,28 +22,28 @@
 
 <div>
     <span align="right">
-      <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decade-qiu&layout=compact&langs_count=6&bg_color=E6E6FA" alt="https://raw.githubusercontent.com/Decade-qiu/Decade-qiu/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231224134245.png">
-      <img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=Decade-qiu&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="https://raw.githubusercontent.com/Decade-qiu/Decade-qiu/master/Quicker_20231224_134552.png">
+      <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuyan2717&layout=compact&langs_count=6&bg_color=E6E6FA" alt="https://raw.githubusercontent.com/liuyuyan2717/liuyuyan2717/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231224134245.png">
+      <img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=liuyuyan2717&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="https://raw.githubusercontent.com/liuyuyan2717/liuyuyan2717/master/Quicker_20231224_134552.png">
   </span>  
   <span align="left">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-      <a href="https://github.com/Decade-qiu" target="_blank">
-        <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=lukasmayer83593@gmail.com">
+      <a href="https://github.com/liuyuyan2717" target="_blank">
+        <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=419100220162@email.ncu.edu.cn">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://github.com/Decade-qiu" target="_blank">
-        <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Decade-qiu">
+      <a href="https://github.com/liuyuyan2717" target="_blank">
+        <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=liuyuyan2717">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://www.zhihu.com/people/chou-yu-80-33" target="_blank">
-        <img src="https://img.shields.io/badge/Zhihu-blue?style=social&logo=zhihu&label=Decade">
+      <a href="https://www.zhihu.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Zhihu-blue?style=social&logo=zhihu&label=liuyuyan2717">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://decade.net.cn" target="_blank">
-        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  Decade">
+        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  liuyuyan2717">
       </a>
     </p>
   </span>
