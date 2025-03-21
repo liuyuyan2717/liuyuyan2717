@@ -42,7 +42,7 @@
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://decade.net.cn" target="_blank">
+      <a href="http://www.liuyuyan.site/" target="_blank">
         <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  liuyuyan2717">
       </a>
     </p>
